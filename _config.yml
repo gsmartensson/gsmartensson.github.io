@@ -1,7 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+#theme
+theme: jekyll-theme-cayman
 # Name of your site (displayed in the header)
 name: Gustav Mårtensson
 

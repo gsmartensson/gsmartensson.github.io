@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who am I?
 
-### More Information
+I'm a PhD student in Neuroimaging since 2016 at Karolinska Institutet in Stockholm, Sweden. My research is focused on how to improve the accuracy of dementia diagnoses based on neuroimaging data s.a. MRI or CT.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[gsmartensson@gmail.com](mailto:gsmrtensson@gmail.com)
